@@ -116,7 +116,7 @@ tap "thoughtbot/formulae"
 tap "homebrew/services"
 
 # Unix
-brew "ctags"
+#brew "ctags"
 brew "git"
 brew "openssl"
 brew "rcm"
@@ -128,7 +128,7 @@ brew "watchman"
 brew "zsh"
 
 # Heroku
-brew "heroku-toolbelt"
+#brew "heroku-toolbelt"
 brew "parity"
 
 # GitHub
