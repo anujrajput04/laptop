@@ -123,22 +123,27 @@ brew "rcm"
 brew "reattach-to-user-namespace"
 brew "the_silver_searcher"
 brew "tmux"
-brew "vim"
+#brew "vim"
 brew "watchman"
 brew "zsh"
+brew "git-lfs"
+
+#iOS
+brew "carthage"
+brew "swiftlint"
 
 # Heroku
 #brew "heroku-toolbelt"
-brew "parity"
+#brew "parity"
 
 # GitHub
 brew "hub"
 
 # Image manipulation
-brew "imagemagick"
+#brew "imagemagick"
 
 # Testing
-brew "qt@5.5"
+#brew "qt@5.5"
 
 # Programming languages and package managers
 brew "libyaml" # should come after openssl
@@ -148,8 +153,8 @@ brew "ruby-build"
 brew "yarn"
 
 # Databases
-brew "postgres", restart_service: true
-brew "redis", restart_service: true
+#brew "postgres", restart_service: true
+#brew "redis", restart_service: true
 EOF
 
 fancy_echo "Symlink qmake binary to /usr/local/bin for Capybara Webkit..."
