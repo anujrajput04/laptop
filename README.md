@@ -102,10 +102,7 @@ Databases:
     * [Blisk] Browser
     * [Mozilla Firefox] Browser
     * [Tor] Browser
-    * [Alfred] for application & file launching
     * [Dropbox] for file storage
-    * [Google Backup & Sync] for file storage
-    * [Plex] media server for serving local media over the network
     * [Evernote] for note taking/resource clipping
     * [Balsamiq Mockups] for mocking up wireframes
     * [Noun Project] for icon library
@@ -113,20 +110,12 @@ Databases:
     * [Color Snapper] for selecting colors
     * [Adobe Illustrator] for the AI files
     * [Sketch] for designing layouts
-    * [Hyper] as my current Terminal alternative
-    * [iTerm] alternative terminal
-    * [MacVim] Vim client for mac
-    * [CodeKit] Sass, Less, Jade, Haml, Javascript compiler
     * [VSCode] for editing code
-    * [Atom] for editing code
     * [Postman] for making API Requests
     * [Paw] for making API Requests
     * [Github Desktop] for a nice GUI for git
     * [MAMP] for quickly running sites on apache
-    * [Kitematic] GUI for running docker containers
     * [Transmit] for FTP/SFTP
-    * [VMWare Fusion] for running virtual machines
-    * [Virtual Box] for running virtual machines
     * [Source Tree] for another nice GUI for git
     * [Dash] for local code documentation
     * [Java] for the occasional app that needs it
